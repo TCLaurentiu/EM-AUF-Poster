@@ -1,6 +1,6 @@
 Implementation of EM Algorithm for Image Segmentation for the AUF poster titled Parameter learning via EM algorithm, authors Claudiu Tîrîsî and Maria Anastasia Jivulescu.
 
-The mml+theory.ipynb notebook contains explanations regarding Gaussian Mixture Models and the EM algorithm, while mml.ipynb is a barebones implementation of GMM and EM without theory and explanations. 
+The mml+theory.ipynb notebook contains explanations regarding Gaussian Mixture Models, the EM algorithm and the mathematics behind them, while mml.ipynb is a barebones implementation of GMM and EM without theory and explanations. 
 
 em.py contains the classes and functions defined in the notebooks, and can be used in external projects.
 
